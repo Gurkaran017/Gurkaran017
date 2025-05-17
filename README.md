@@ -21,25 +21,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 Projects
-
-### 📚 [BookStore](https://github.com/Gurkaran017/BookStore)
-A full-stack web application for managing and browsing books.
-- MongoDB, Express.js, React.js, Node.js
-- RESTful APIs, authentication, and real-time updates
-
-### 💬 [ChatApp](https://github.com/Gurkaran017/ChatApp)
-A real-time messaging app supporting group and single chats.
-- MERN Stack + Socket.io
-- Real-time communication with authentication
-
-### 🎲 [Lucky Roll](https://github.com/Gurkaran017/Lucky-Roll)
-An interactive dice game with score tracking and leaderboard.
-- Full Stack (MERN)
-- Backend with authentication & MongoDB for persistent high scores
-
----
-
 ## 💻 Tech Stack
 
 **Languages:**  
@@ -84,3 +65,4 @@ An interactive dice game with score tracking and leaderboard.
 - 🧠 I love solving algorithmic problems and building real-world projects.
 - 🚗 I'm passionate about road trips and exploring new places.
 - 🛠️ Always up for learning new tech and frameworks!
+
