@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Gurkaran017/Gurkaran017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,32 +13,74 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 # 👋 Hi, I'm Gurkaran Singh!
 
-🌟 A passionate Full Stack Developer from India
+🎓 I'm a Computer Science student at Chitkara University with a passion for full-stack development and problem-solving.
+
+💡 I specialize in building dynamic and scalable web applications using the **MERN stack** (MongoDB, Express.js, React.js, Node.js), and have a solid foundation in **Java, C/C++**, data structures, algorithms, and operating system concepts.
+
+---
+
+## 🚀 Projects
+
+### 📚 [BookStore](https://github.com/Gurkaran017/BookStore)
+A full-stack web application for managing and browsing books.
+- MongoDB, Express.js, React.js, Node.js
+- RESTful APIs, authentication, and real-time updates
+
+### 💬 [ChatApp](https://github.com/Gurkaran017/ChatApp)
+A real-time messaging app supporting group and single chats.
+- MERN Stack + Socket.io
+- Real-time communication with authentication
+
+### 🎲 [Lucky Roll](https://github.com/Gurkaran017/Lucky-Roll)
+An interactive dice game with score tracking and leaderboard.
+- Full Stack (MERN)
+- Backend with authentication & MongoDB for persistent high scores
+
+---
 
 ## 💻 Tech Stack
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+**Frameworks & Libraries:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+
+---
 
 ## 📈 GitHub Stats
-![Gurkaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurkaransingh&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurkaransingh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🚀 Featured Projects
-- 🎯 [Trip Planner Admin Panel](https://github.com/gurkaransingh/travel-admin-panel): React + Node.js travel admin dashboard with image/PDF uploads.
-- 🧭 [Kasol Travel Website](https://github.com/gurkaransingh/kasol-travel-site): Full-stack web app with real-time trip listings and MongoDB integration.
+![Gurkaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurkaran017&show_icons=true&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurkaran017&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/gurkaransingh/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=google-chrome&logoColor=white)](https://gurkaransingh.dev)
+---
 
-## 😄 Fun Facts
-- I love road trips and off-roading in the hills 🌄.
-- My current side project is a travel itinerary generator using AI.
+## 📫 Contact Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/gurkaran-singh-b0241b2a0)  
+📧 gurkaran0532.be21@chitkara.edu.in  
+📱 +91-8968137523
+
+---
+
+## 🔍 Fun Facts
+- 🧠 I love solving algorithmic problems and building real-world projects.
+- 🚗 I'm passionate about road trips and exploring new places.
+- 🛠️ Always up for learning new tech and frameworks!
