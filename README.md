@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Gurkaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurkaran017&show_icons=true&theme=radical) 
 -->
 # 👋 Hi, I'm Gurkaran Singh!
 
@@ -57,7 +58,7 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats
 
-![Gurkaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurkaran017&show_icons=true&theme=radical)  
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurkaran017&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
