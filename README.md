@@ -17,31 +17,40 @@ Here are some ideas to get you started:
 
 🎓 I'm a Computer Science student at Chitkara University with a passion for full-stack development and problem-solving.
 
-💡 I specialize in building dynamic and scalable web applications using the **MERN stack** (MongoDB, Express.js, React.js, Node.js), and have a solid foundation in **Java, C/C++**, data structures, algorithms, and operating system concepts.
+---
+
+## 🧑‍💼 About Me
+
+- 🎯 I’m currently pursuing a Bachelor's in Computer Science (2021–2025).
+- 🧠 I'm passionate about software development, especially in the **MERN stack**.
+- 🔧 I have experience building full-stack web apps with **MongoDB, Express.js, React.js, and Node.js**.
+- 🛠️ I'm comfortable working with databases like **MySQL** and **MongoDB**, and tools like **Git**, **VS Code**, and **IntelliJ IDEA**.
+- 💡 I enjoy solving algorithmic challenges and have a solid understanding of **Data Structures**, **OOP**, and **Operating Systems**.
+- 🌱 I’m always learning and exploring new technologies to stay updated.
 
 ---
 
 ## 💻 Tech Stack
 
 **Languages:**  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
 **Databases:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 
 ---
@@ -62,7 +71,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🔍 Fun Facts
+
 - 🧠 I love solving algorithmic problems and building real-world projects.
 - 🚗 I'm passionate about road trips and exploring new places.
 - 🛠️ Always up for learning new tech and frameworks!
-
