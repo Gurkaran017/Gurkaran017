@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 ## 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/gurkaran-singh-b0241b2a0)  
-📧 gurkaran0532.be21@chitkara.edu.in  
+📧 gurkaransingh017gh@gmail.com
 📱 +91-8968137523
 
 ---
